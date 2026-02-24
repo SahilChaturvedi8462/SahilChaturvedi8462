@@ -1,7 +1,7 @@
-## Hi there 👋
+ Hi there 👋
 
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm [Your Name]</h1><br><br><p align="center"><br>  🎓 B.Tech Student at <b>UIT RGPV, Bhopal</b><br><br>  💻 Passionate Developer | Problem Solver | Tech Enthusiast<br></p><br><br>---<br><br>## 🚀 About Me<br><br>- 🔭 Currently working on **Spring Boot**<br>- 🌱 Exploring **Backend Development**<br>- 🧠 Solved **350+ DSA Problems**<br>- ⚡ Solved **200+ Competitive Programming Problems**<br>- 🎓 Pursuing **B.Tech from UIT RGPV, Bhopal**<br>- 💡 Always learning & building new things<br><br>---<br><br>## 🛠️ Tech Stack<br><br>- 💻 Java<br>- 🌱 Spring Boot<br>- 🗄️ MySQL<br>- 📊 Data Structures & Algorithms<br>- 🧩 Competitive Programming<br><br>---<br><br>## 📈 Coding Journey<br><br>- 🏆 350+ DSA Problems Solved<br>- 🚀 200+ CP Problems Solved<br>- 🔥 Consistent Learner & Problem Solver<br><br>---<br><br>## 🌟 Goals<br><br>- Become a strong **Backend Developer**<br>- Contribute to **Open Source**<br>- Build impactful real-world projects<br><br>---<br><br><p align="center"><br>  ✨ "Code. Learn. Build. Repeat." ✨<br></p>
+ 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sahil Chaturvedi</h1><br><br><p align="center"><br>  🎓 B.Tech Student at <b>UIT RGPV, Bhopal</b><br><br>  💻 Passionate Developer | Problem Solver | Tech Enthusiast<br></p><br><br>---<br><br>🚀 About Me<br><br>- 🔭 Currently working on **Spring Boot**<br>- 🌱 Exploring Backend Development<br>- 🧠 Solved 350+ DSA Problems<br>- ⚡ Solved 200+ Competitive Programming Problems<br>- 🎓 Pursuing B.Tech from UIT RGPV, Bhopal<br>- 💡 Always learning & building new things<br><br>---<br><br>## 🛠️ Tech Stack<br><br>- 💻 Java<br>- 🌱 Spring Boot<br>- 🗄️ MySQL<br>- 📊 Data Structures & Algorithms<br>- 🧩 Competitive Programming<br><br>---<br><br>## 📈 Coding Journey<br><br>- 🏆 350+ DSA Problems Solved<br>- 🚀 200+ CP Problems Solved<br>- 🔥 Consistent Learner & Problem Solver<br><br>---<br><br>## 🌟 Goals<br><br>- Become a strong **Backend Developer**<br>- Contribute to **Open Source**<br>- Build impactful real-world projects<br><br>---<br><br><p align="center"><br>  ✨ "Code. Learn. Build. Repeat." ✨<br></p>
 
 
 ## 🌐 Socials:
